@@ -1,0 +1,26 @@
+# Core data stack
+numpy
+pandas
+scipy
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+
+# Statistical and econometric modeling
+statsmodels
+arch
+hmmlearn
+
+# Deep learning
+torch
+
+# Notebook execution
+jupyter
+ipykernel
+nbformat
+nbclient
+
+# Excel data inspection/export
+openpyxl
